@@ -1,0 +1,19 @@
+.ui.inverted.borderless.topmenu.menu{
+  padding: 8px;
+  background: black;
+  color: white;
+  border-radius: 0px;
+}
+
+.ui.borderless.middlemenu.menu{
+  box-shadow: none;
+  border: none;
+}
+
+.ui.fluid.image{
+  padding: 30px;
+}
+
+.footer{
+  padding-top: 30px;
+}
